@@ -1,0 +1,18 @@
+.personal-card{
+  max-width: 700px;
+}
+
+.my-intersts{
+  max-width: 15em;
+}
+
+.my-intersts li:hover{
+  background-color: rgba(27, 109, 233, 0.8);
+}
+
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
